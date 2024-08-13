@@ -1,0 +1,7 @@
+streamlit
+spacy
+nltk
+jsonlines
+requests
+PyPDF2
+gradio
